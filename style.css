@@ -184,7 +184,10 @@ body{
         transform: rotate(0deg);
     }
 }
-
+.home-image img{
+    width: 80%;
+    height: 80vh;
+}
 
 /* 2. Home section ends. */
 
